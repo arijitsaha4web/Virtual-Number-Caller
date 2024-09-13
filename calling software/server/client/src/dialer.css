@@ -1,0 +1,25 @@
+.dialer-container {
+    margin-top: 50px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  button {
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+  }
+  
+  .call-status {
+    font-size: 18px;
+    font-weight: bold;
+    color: #28a745;
+  }
+  

@@ -1,0 +1,42 @@
+{
+  "name": "virtual-number-caller",
+  "version": "1.0.0",
+  "description": "A React.js application for Wi-Fi calling using a virtual number",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "wifi",
+    "calling",
+    "virtual",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "@twilio/voice-sdk": "^2.12.1",
+    "bootstrap": "^5.3.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "read-excel-file": "^5.8.5",
+    "twilio": "^5.2.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
